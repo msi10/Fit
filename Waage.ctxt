@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=startGewicht
+comment0.target=Waage(int)
+comment0.text=\r\n\ Gib\ dein\ aktuelles\ Gewicht\ ein.\r\n\ @param\ Gewicht\ der\ Person.\r\n
+comment1.params=
+comment1.target=int\ gibTrend()
+comment1.text=\r\n\ Zeigt\ an\ ob\ die\ Person\ zu/abgenommen\ hat.\r\n
+comment2.params=
+comment2.target=void\ berechneExtremwerte()
+comment2.text=\r\n\ Berechnet\ das\ Maximalgewicht,\ sowie\ das\ Minimalgewicht.\r\n
+comment3.params=neuesGewicht
+comment3.target=void\ registriere(int)
+comment3.text=\r\n\ Regestriert\ die\ Eingaben.\r\n
+comment4.params=
+comment4.target=int\ gibMinimalgewicht()
+comment4.text=\r\n\ Gibt\ das\ kleinste\ Gewicht\ in\ Kg\ wieder\r\n
+comment5.params=
+comment5.target=int\ gibMaximalgewicht()
+comment5.text=\r\n\ Gibt\ das\ gr\u00F6\u00DFte\ Gewicht\ in\ Kg\ wieder\ \r\n
+numComments=6
